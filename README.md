@@ -1,7 +1,7 @@
 ## 👋 Olá!  Me chamo Antonio Henrique
 
 * 🎓 Estudante de Ciência da Computação no UFMA  
-* 💻 Desenvolvedor com foco em Angular, Laravel e tecnologias modernas  
+* 💻 Desenvolvedor com foco em Angular, Spring, Laravel e tecnologias modernas  
 * 🚀 Apaixonado por criar soluções que realmente ajudam as pessoas  
 
 <hr style="border: 0.5px solid #444; width: 90%;">
